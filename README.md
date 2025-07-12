@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#e11d48">Subhajit Khanda</span>
 </h1>
-<h3 align="center">🚀 Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center"> Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F73B8B&width=435&lines=Python+%7C+Node.js+%7C+MongoDB+%7C+Bootstrap;Always+learning+new+tech+%F0%9F%9A%80;Let's+build+something+cool+%F0%9F%A4%97" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+###  Languages & Tools
 
 <p align="center">
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhajitk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="mailto:subhajitkhanra038@gmail.com">
